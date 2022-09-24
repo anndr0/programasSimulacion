@@ -1,1 +1,1 @@
-# programasSimulacion
+# PROGRAMA SIMULACIÓN DE LO CLÁSICO A LO CUÁNTICO
